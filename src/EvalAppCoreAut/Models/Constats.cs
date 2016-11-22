@@ -26,13 +26,13 @@ namespace EvalAppCoreAut.Models
         Vacation
     }
 
-    public static class ServiceSuffixes
-    {
-        public const string ServiceSuffix_bro = "(bro)";
-        public const string ServiceSuffix__r_ = "(_r_)";
-        public const string ServiceSuffix__ro = "(_ro)";
-        public const string ServiceSuffix____ = "(___)";
-    }
+    //public static class ServiceSuffixes
+    //{
+    //    public const string ServiceSuffix_bro = "(bro)";
+    //    public const string ServiceSuffix__r_ = "(_r_)";
+    //    public const string ServiceSuffix__ro = "(_ro)";
+    //    public const string ServiceSuffix____ = "(___)";
+    //}
 
 
     //to brac z bazy danych 
